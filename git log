@@ -1,0 +1,23 @@
+[33mcommit 05a82625e379eb03aeca41604c550e57cecbfe64[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Rafael Rodrigues <rafa.rsouz@gmail.com>
+Date:   Sat Feb 26 20:02:14 2022 -0300
+
+    Added routes and requests
+
+[33mcommit 8dbe438aa95df85499b581e39b6edc29ff81b59b[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Rafael Rodrigues <rafa.rsouz@gmail.com>
+Date:   Fri Feb 25 18:23:35 2022 -0300
+
+    adicionado conexão com banco de dados sqlite3, bem como tabelas iniciais utilizando knex
+
+[33mcommit 7b819be873073923b1d46d46c7c4ff8d544c6c25[m
+Author: Rafael Rodrigues <rafa.rsouz@gmail.com>
+Date:   Fri Feb 25 15:41:34 2022 -0300
+
+    web page first commit - created root folder for react app
+
+[33mcommit a244447bc9cb6bc5b22c273e196026adade3f80e[m
+Author: Rafael Rodrigues <rafa.rsouz@gmail.com>
+Date:   Fri Feb 25 14:24:01 2022 -0300
+
+    First commit
